@@ -1,0 +1,12 @@
+D:\Projects\TFS\Efitbarkat58\CroweHorwath\CroweHorwath.WebServices\bin\Debug\CroweHorwath.WebServices.dll.config
+D:\Projects\TFS\Efitbarkat58\CroweHorwath\CroweHorwath.WebServices\bin\Debug\CroweHorwath.WebServices.dll
+D:\Projects\TFS\Efitbarkat58\CroweHorwath\CroweHorwath.WebServices\bin\Debug\CroweHorwath.WebServices.pdb
+D:\Projects\TFS\Efitbarkat58\CroweHorwath\CroweHorwath.WebServices\obj\Debug\CroweHorwath.WebServices.dll
+D:\Projects\TFS\Efitbarkat58\CroweHorwath\CroweHorwath.WebServices\obj\Debug\CroweHorwath.WebServices.pdb
+D:\Projects\TFS\Efitbarkat58\CroweHorwath\CroweHorwath.WebServices\obj\Debug\CroweHorwath.WebServices.csprojResolveAssemblyReference.cache
+H:\DropBox\Dropbox\DennyD With Azmat\CroweHorwath\CroweHorwath\CroweHorwath.WebServices\bin\Debug\CroweHorwath.WebServices.dll.config
+H:\DropBox\Dropbox\DennyD With Azmat\CroweHorwath\CroweHorwath\CroweHorwath.WebServices\bin\Debug\CroweHorwath.WebServices.dll
+H:\DropBox\Dropbox\DennyD With Azmat\CroweHorwath\CroweHorwath\CroweHorwath.WebServices\bin\Debug\CroweHorwath.WebServices.pdb
+H:\DropBox\Dropbox\DennyD With Azmat\CroweHorwath\CroweHorwath\CroweHorwath.WebServices\obj\Debug\CroweHorwath.WebServices.csprojResolveAssemblyReference.cache
+H:\DropBox\Dropbox\DennyD With Azmat\CroweHorwath\CroweHorwath\CroweHorwath.WebServices\obj\Debug\CroweHorwath.WebServices.dll
+H:\DropBox\Dropbox\DennyD With Azmat\CroweHorwath\CroweHorwath\CroweHorwath.WebServices\obj\Debug\CroweHorwath.WebServices.pdb

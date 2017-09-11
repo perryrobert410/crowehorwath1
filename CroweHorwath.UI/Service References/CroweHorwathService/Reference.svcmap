@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="50e1c7f5-52eb-4f0d-aed6-f67af55374e0" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/CroweHorwath.WebServices/CHService/" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="item.disco" MetadataType="Disco" ID="44595a07-db61-48d6-86f5-2e944cb88527" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/CroweHorwath.WebServices/CHService/?disco" />
+    <MetadataFile FileName="CHService.wsdl" MetadataType="Wsdl" ID="e79dd9a4-b28c-4895-90e2-e1ab0fa75dc4" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/CroweHorwath.WebServices/CHService/?wsdl" />
+    <MetadataFile FileName="item.xsd" MetadataType="Schema" ID="349e9713-09f2-4047-a255-9712383a8057" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/CroweHorwath.WebServices/CHService/?xsd=xsd1" />
+    <MetadataFile FileName="item1.xsd" MetadataType="Schema" ID="f2e93eaf-5857-4a59-9c60-3699b93bfa37" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/CroweHorwath.WebServices/CHService/?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

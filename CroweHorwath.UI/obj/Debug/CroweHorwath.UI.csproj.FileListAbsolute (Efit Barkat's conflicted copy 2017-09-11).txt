@@ -1,0 +1,12 @@
+D:\Projects\TFS\Efitbarkat58\CroweHorwath\CroweHorwath.UI\bin\Debug\CroweHorwath.UI.exe.config
+D:\Projects\TFS\Efitbarkat58\CroweHorwath\CroweHorwath.UI\bin\Debug\CroweHorwath.UI.exe
+D:\Projects\TFS\Efitbarkat58\CroweHorwath\CroweHorwath.UI\bin\Debug\CroweHorwath.UI.pdb
+D:\Projects\TFS\Efitbarkat58\CroweHorwath\CroweHorwath.UI\obj\Debug\CroweHorwath.UI.csprojResolveAssemblyReference.cache
+D:\Projects\TFS\Efitbarkat58\CroweHorwath\CroweHorwath.UI\obj\Debug\CroweHorwath.UI.exe
+D:\Projects\TFS\Efitbarkat58\CroweHorwath\CroweHorwath.UI\obj\Debug\CroweHorwath.UI.pdb
+H:\DropBox\Dropbox\DennyD With Azmat\CroweHorwath\CroweHorwath\CroweHorwath.UI\bin\Debug\CroweHorwath.UI.exe.config
+H:\DropBox\Dropbox\DennyD With Azmat\CroweHorwath\CroweHorwath\CroweHorwath.UI\obj\Debug\CroweHorwath.UI.exe
+H:\DropBox\Dropbox\DennyD With Azmat\CroweHorwath\CroweHorwath\CroweHorwath.UI\obj\Debug\CroweHorwath.UI.pdb
+H:\DropBox\Dropbox\DennyD With Azmat\CroweHorwath\CroweHorwath\CroweHorwath.UI\bin\Debug\CroweHorwath.UI.exe
+H:\DropBox\Dropbox\DennyD With Azmat\CroweHorwath\CroweHorwath\CroweHorwath.UI\bin\Debug\CroweHorwath.UI.pdb
+H:\DropBox\Dropbox\DennyD With Azmat\CroweHorwath\CroweHorwath\CroweHorwath.UI\obj\Debug\CroweHorwath.UI.csprojResolveAssemblyReference.cache
