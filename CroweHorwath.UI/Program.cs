@@ -15,7 +15,7 @@ namespace CroweHorwath.UI
             Console.WriteLine("\nToday is {0:d} at {0:T}.", dat);
             Console.Write("\nPress H to print static string using WCF services. ");
             var enteredString = Console.ReadLine();
-
+            // test
             while (enteredString.ToLower() != "h")
             {
                 Console.Write("\nYou entered another char. ");
